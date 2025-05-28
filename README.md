@@ -1,0 +1,1 @@
+This repository contains all the projects I’ve worked on while learning Python. Each project represents a milestone in my coding journey, showcasing the skills I've developed, challenges I've tackled, and concepts I've mastered along the way. Whether it's problem-solving, automation, or data handling, this collection reflects my growth as a programmer.
