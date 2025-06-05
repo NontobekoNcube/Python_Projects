@@ -18,3 +18,27 @@ Divisible by 3 and 5: Print "BarBaz".
 Divisible by 2, 3, and 5: Print "FooBarBaz".
 
 For numbers that don’t meet any of these conditions: Simply print the number.
+Example output:
+1
+Foo
+Bar
+Foo
+Baz
+FooBar
+7
+Foo
+Bar
+FooBaz
+11
+FooBar
+13
+Foo
+BarBaz
+Foo
+17
+...
+Extra Challenge: After you complete the basic version:
+
+Modify your program so that it takes an upper limit (e.g., 1 to N) from the user instead of always 100.
+
+Experiment with different divisibility rules (e.g., add a check for numbers divisible by 7).
